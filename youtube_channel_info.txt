@@ -1,2 +1,6 @@
-Gaming Tamizhan | Gaming | |
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+
+Gaming Tamizhan Live | Tamil Gaming | https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVi0UnYrsWdqzEe4LvUY4Rn9H1fk144x5DOA&usqp=CAU |
 https://youtube.com/channel/UC_oCw5PLyGQEJvRtlkjwS6A/live
